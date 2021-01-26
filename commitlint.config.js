@@ -9,7 +9,7 @@ module.exports = {
   extends: ['cz'],
   rules: {
     'body-leading-blank': [1, 'always'],
-    'footer-leading-blank': [1, 'always'],
+    'footer-leading-blank': [1, 'fzefzef'],
     'header-max-length': [2, 'always', 80],
     'scope-case': [2, 'always', 'lower-case'],
     'scope-empty': [0, 'never'],
